@@ -140,6 +140,20 @@ A Welcome introduction screen displays the application name, developer details, 
 
 A File Menu displays the various file Operations that user can perform.
 
+<img width="400" alt="Screenshot 2022-12-24 at 1 30 33 PM" src="https://user-images.githubusercontent.com/120833075/209427362-f38a5cbb-d4a6-40fc-beca-d91abf913544.png">
+
+## Technologies
+
+Technologies used in project:
+
+-java 8 \
+-IntelliJ
+
+## Setup
+
+Run this as a Java Project
+
+
 
 
 
