@@ -136,11 +136,11 @@ Following requirements should be met:
 
 A Welcome introduction screen displays the application name, developer details, directory information and main menu.
 
-<img alt = "FrontScreen" src = <img width="746" alt="Screenshot 2022-12-23 at 9 35 43 PM" src="https://user-images.githubusercontent.com/120833075/209427181-bef4a5c9-f34a-49d0-b113-d0151c6ead38.png">
+<img width="746" alt="Screenshot 2022-12-23 at 9 35 43 PM" src="https://user-images.githubusercontent.com/120833075/209427181-bef4a5c9-f34a-49d0-b113-d0151c6ead38.png">
 
 A File Menu displays the various file Operations that user can perform.
 
-<img alt = "Operations Screen" src = "">
+
 
 
 
