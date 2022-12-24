@@ -131,6 +131,17 @@ Following requirements should be met:
     * Links to the GitHub repository to verify the project completion
 
     * Your conclusion on enhancing the application and defining the USPs (Unique Selling Points)
+    
+    ## Using the application
+
+A Welcome introduction screen displays the application name, developer details, directory information and main menu.
+
+<img alt = "FrontScreen" src = "">
+
+A File Menu displays the various file Operations that user can perform.
+
+<img alt = "Operations Screen" src = "">
+
 
 
 
