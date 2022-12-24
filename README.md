@@ -146,7 +146,7 @@ A File Menu displays the various file Operations that user can perform.
 
 Technologies used in project:
 
--java 8 \
+-java 19.0.1\
 -IntelliJ
 
 ## Setup
